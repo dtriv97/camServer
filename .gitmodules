@@ -1,3 +1,0 @@
-[submodule "PiCamera"]
-	path = PiCamera
-	url = git@github.com:dtriv97/camServer.git
