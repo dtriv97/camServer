@@ -1,0 +1,3 @@
+[submodule "piCamera"]
+	path = piCamera
+	url = git@github.com:dtriv97/piCamera.git
